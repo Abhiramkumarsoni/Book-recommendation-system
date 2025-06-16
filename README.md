@@ -1,4 +1,5 @@
-Book Recommendation System
+##Book Recommendation System
+
 🔍 Project Type: Unsupervised
 👤 Contribution: Individual
 🧠 Domain: Recommendation Systems, Machine Learning
